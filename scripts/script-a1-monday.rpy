@@ -24,12 +24,16 @@ play music music_serene fadein 2.0
 "I breathe into my cupped hands and rub them together furiously to prevent them from numbing in this cold."
 
 hi "Just how long am I expected to wait out here, anyway? I'm sure the note said 4:00 PM."
+hi "Mình còn phải đợi ở đây đến bao giờ nữa vậy? Ở ghi chú có ghi là 4 giờ chiều nay mà."
 
 "Ah yes… the note… slipped between the pages of my math book while I wasn't looking."
+"À thì, cái ghi chú tuột ra từ cuốn sách toán lúc tôi không để ý"
 
 "As far as clichés go, I'm more a fan of the letter-in-the-locker, but at least this way shows a bit of initiative."
+"Tôi cũng thích được ai đó đặt thư trong tủ giày như trong Anime, nhưng như này cũng không tệ."
 
 "As I ponder the meaning of the note, the snowfall gradually thickens."
+"Càng đoán già đoán non về ý nghĩa của cái ghi chú, tôi lại thấy tuyết càng thêm dày hơn"
 
 "The snowflakes silently falling from the white-painted sky are the only sign of time passing in this stagnant world."
 
@@ -40,16 +44,19 @@ play sound sfx_rustling
 "The rustling of dry snow underfoot startles me, interrupting the quiet mood. Someone is approaching me from behind."
 
 mystery "Hi… Hisao? You came?"
+"Hi... Hisao? Cậu đã tới rồi ư?"
 
 "A hesitating, barely audible question."
-
+"Giọng nói có chút chần chừ."
 "However, I recognize the owner of that dainty voice instantly."
 
 "I feel my heart skip a beat."
+"Tim tôi như lỡ một nhịp."
 
 "It's a voice I've listened to hundreds of times, but never as more than an eavesdropper to a conversation."
 
 "I turn to face this voice, the voice of my dreams, and my heart begins to race…"
+"Tôi quay về hướng giọng nói ấy, giọng nói của nàng thơ trong những giấc mơ ấy, và tim tôi bắt đầu đập mạnh hơn"
 
 window hide
 

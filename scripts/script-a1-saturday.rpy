@@ -35,6 +35,7 @@ stop sound fadeout 6.0
 "That can partly be attributed to the two empty seats beside me. For some reason Misha and Shizune aren't present; probably doing council work for the festival."
 
 "It's very quiet without Misha present."
+"Lớp trầm hẳn khi không có mặt Misha."
 
 "I wonder if she was born as rowdy as she is, or if she is “making up” for Shizune's lack of voice."
 
@@ -44,12 +45,16 @@ with charaenter
 stop music fadeout 2.0
 
 mu "Nakai, can I speak to you for a moment?"
+mu "Nakai, thầy có thể nói chuyện với em một lúc được không?"
 
 "I'm so engrossed in thinking about Misha that I don't even notice Mutou approaching my desk."
+"Tôi mải nghĩ về Misha tới nỗi chẳng để ý việc Mutou đang tiến gần về phía bàn của mình."
 
 hi "Sure… what's this about?"
+hi "Sao vậy?"
 
 mu "It's probably better if we speak outside the classroom…"
+mu "Tốt hơn là nên ra ngoài nói..."
 
 play sound sfx_dooropen
 
@@ -72,10 +77,13 @@ with locationchange
 "Mutou stands in the hallway, scratching his head as he works out what he is trying to say. Not knowing what's going on, I wait silently."
 
 mu "I heard from the school's head nurse that you had an incident the other day."
+mu "Thầy nghe nhân viên y tế của trường bảo rằng em gặp tai nạn hôm trước."
 
 "Ah. So it's about that."
+"À. Là về việc đấy à."
 
 hi "Well, kind of, but it's not anything to be worried about."
+"Dạ, nhưng mà cũng không có gì nghiêm trọng lắm."
 
 show muto irritated
 with charachange
